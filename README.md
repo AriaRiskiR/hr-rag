@@ -6,6 +6,8 @@ This project was created as an experimental MVP to simulate an internal HR knowl
 
 It helps employees quickly retrieve HR-related information such as onboarding, leave policies, payroll, benefits, and company rules through conversational search.
 
+You can see it in https://hr-rag.streamlit.app/
+
 ---
 
 ## 📌 Project Overview
